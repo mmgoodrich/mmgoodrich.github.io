@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css');
 :root {
-    --bgColor:#212529;
+    --bgColor:#7DCAE7;
     --accentColor: #E6E6E6;
     --bgColorg:#000000;
     --accentColorg: #d4af37;
@@ -63,33 +63,33 @@ body{
 h5{
     text-align: center;
     margin-bottom: 20px;
-    color: #E6E6E6;
+    color: #f1db00;
     font-family: var(--font);
     font-style: italic;;
 }
 p{
     text-align: center;
     margin-bottom: 20px;
-    color: #E6E6E6;
+    color: #f1db00;
     font-family: var(--font);
     font-style: italic;;
 }
 h1{
     text-align: center;
     margin-bottom: 20px;
-    color: #E6E6E6;
+    color: #f1db00;
     font-family: var(--font);
 }
 h2{
     text-align: center;
     margin-bottom: 20px;
-    color: #E6E6E6;
+    color: #f1db00;
     font-family: var(--font);
 }
 h4{
     text-align: center;
     margin-bottom: 20px;
-    color: #E6E6E6;
+    color: #f1db00;
     font-family: var(--font);
 }
 h6{
