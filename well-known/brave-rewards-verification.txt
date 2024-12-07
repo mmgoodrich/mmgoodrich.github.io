@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: unblockedgames621.net
-Token: 2a66f0ede6a04f436d87e20c30d9e4b6090bfeac0184e705dcd7a2c38ba1dbdf
+Token: b6dafbd7689ed3756236b000ed1bbbc06313d46e7f5331e1f8188214235895bd
